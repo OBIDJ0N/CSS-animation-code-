@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>Aniamtion code</title>
+	<link rel="stylesheet" type="text/css" href="Animation.css">
+</head>
+<body>
+	<div class="container">
+		<div class="ring"></div>
+		<div class="ring"></div>
+		<div class="ring"></div>
+		<p>Loading...</p>
+	</div>
+s
+</body>
+</html>
